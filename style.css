@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.reviewimg{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%; 
+    margin-top: 3rem;  
+    margin-bottom: 3rem;
+}
